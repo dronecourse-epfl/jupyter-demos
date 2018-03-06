@@ -1,2 +1,2 @@
 # jupyter-demos
-Short demos &amp; prototypes of random stuff
+Short demos & prototypes of algorithms used in lectures 7 and 8
