@@ -1,2 +1,2 @@
 # jupyter-demos
-Short demos & prototypes of algorithms used in lectures 7 and 8
+Short demos & prototypes of algorithms used in the lectures of the Aerial Robotics course at EPFL.
